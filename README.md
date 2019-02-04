@@ -1,6 +1,6 @@
 # Web_Development-Projects
 In this Web_Development-Projects Repositories I upload three Projects of Web Developemt first is Portfolio Site Second is Reaction Tester 
-and Third is Email Client App.Basically these aprojecst are collaborate of HTML, CSS, Java , PHP and Bootstap which I made.
+and Third is Email Client App.Basically these projects are collaborate of HTML, CSS, Java Script, PHP and Bootstap.
 
 ## Project 1: Portfolio Site
 In this Project we make a website like a Portfolio Site using collaboartive of HTML, CSS, PHP, JavaScript and Bootstrap.Basically This 
