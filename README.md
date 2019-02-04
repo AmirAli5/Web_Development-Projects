@@ -14,4 +14,4 @@ site of page random and you click on it and the time count.The count time is bas
 
 ## Project 3: Email Client App
 In this Project make a Email Client App which completey base on PHp. Email Client app is just like a Email between user and client. 
-Basically connection between user and client which can send message through email and data store on php server.
+Basically connection between user and client which can send message through email and data store on Apache server.
