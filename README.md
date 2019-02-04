@@ -9,9 +9,9 @@ section have four different page which is Eduction, Projects, Experiences and Pu
 me and In last section which is basically connect us is form base on php.
 
 ## Project 2: Reaction Tester
-In This Project make a Reaction Tester just like a game completey base on Java Script.In Recation Tester  a box or circle which appear on 
+In This Project make a Reaction Tester just like a game completely base on Java Script.In Reaction Tester a box or circle which appear on 
 site of page random and you click on it and the time count.The count time is basically how many quick time you click on it.
 
 ## Project 3: Email Client App
-In this Project make a Email Client App which completey base on PHp. Email Client app is just like a Email between user and client. 
+In this Project make a Email Client App which completely base on PHP. Email Client app is just like a Email between user and client. 
 Basically connection between user and client which can send message through email and data store on Apache server.
