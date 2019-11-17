@@ -1,17 +1,11 @@
-# Web_Development-Projects
-In this Web_Development-Projects Repositories I upload three Projects of Web Developemt first is Portfolio Site Second is Reaction Tester 
-and Third is Email Client App.Basically these projects are collaborate of HTML, CSS, Java Script, PHP and Bootstap.
+# Web Development Projects
+In this Web Development Projects Repositories, I upload my web development project based on web languages like HTML, CSS, JS, JQuery, and BootStrap.
 
 ## Project 1: Portfolio Site
-In this Project we make a website like a Portfolio Site using collaboartive of HTML, CSS, PHP, JavaScript and Bootstrap.Basically This 
-Site have a four section which is Home, Curriculam, About us and Connect Us.In Home section simply Profile pic and name In Curriculam 
-section have four different page which is Eduction, Projects, Experiences and Publication.In third Section simply Description of about 
-me and In last section which is basically connect us is form base on php.
+In this project, I make a website like a Resume Site using a collaboration of Web Languages like HTML, CSS, PHP, JavaScript, and Bootstrap. Basically, This Site has a four-section which is Home, Curriculum, About us and Connect Us. In-Home section simply Profile picture and name In Curriculum section have four different pages which are Education, Projects, Experiences, and Publication. In the third Section simply Description of about me and in the last section which basically connects us is form base.
 
 ## Project 2: Reaction Tester
-In This Project make a Reaction Tester just like a game completely base on Java Script.In Reaction Tester a box or circle which appear on 
-site of page random and you click on it and the time count.The count time is basically how many quick time you click on it.
+In this project, I make a Reaction Tester just like a game completely base on Java Script. In Reaction Tester, a box or circle which appears on site of page random and you clicks on it and the time count. The count time is basically how much quicker time you click on it.
 
 ## Project 3: Email Client App
-In this Project make a Email Client App which completely base on PHP. Email Client app is just like a Email between user and client. 
-Basically connection between user and client which can send message through email and data store on Apache server.
+In this project, I make an Email Client App which completely bases on PHP. The Email Client app is just like an Email between user and client. Basically, the connection between the user and client can send a message through email and datastore on the Apache server.
